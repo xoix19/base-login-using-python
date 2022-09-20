@@ -4,7 +4,8 @@
 - Username : xoix
 - Password : github
 
-- Base login using python
-- execute script with username & passwords
+U can change username & password
+Base login using python
+execute script with username & passwords
 
 
