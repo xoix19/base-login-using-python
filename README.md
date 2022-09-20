@@ -5,7 +5,6 @@
 - Password : github
 
 U can change username & password
-Base login using python
-execute script with username & passwords
+-Base login using python
 
 
